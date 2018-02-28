@@ -1,1 +1,1 @@
-# hypervelocity_internal
+# faststars_internal
