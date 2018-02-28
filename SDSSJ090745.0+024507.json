@@ -23,7 +23,7 @@
 		    "u_value":"degrees",
 		    "source":"1"
 		  }
-		]
+		],
 		"lumdist":[
 		  {
 		    "value":"55",
@@ -32,7 +32,7 @@
 		    "u_value":"kpc",
 		    "source":"1"
 		  }
-		]
+		],
 		"velocity":[
 		  {
 		    "value":"853.0",
