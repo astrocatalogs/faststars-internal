@@ -1,14 +1,16 @@
 {
 	"SDSSJ090745.0+024507":{
 		"name":"SDSSJ090745.0+024507",
-		"alias":[
-			"HVS1"
-		],
 		"sources":[
 		  {
 		    "bibcode":"2005ApJ...622L..33B",
             "alias":"1"
 		  }
+		],
+		"alias":[
+	      {
+			"value":"HVS1",
+			"source":"1"
 		],
 		"ra":[
 		  {
