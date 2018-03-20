@@ -67,6 +67,12 @@
 		    "u_value":"mas/yr",
 		    "source":"2"
 		  }
+		],
+		"claimedtype":[
+		  {
+		    "value":"HVS",
+		    "source":"1"
+		  }
 		]
 	}
 }
