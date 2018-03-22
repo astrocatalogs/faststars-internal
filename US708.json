@@ -101,6 +101,12 @@
 		    "value":"HVS",
 		    "source":"1,3"
 		  }
+		],
+		"spectraltype":[
+		  {
+		    "value":"sdO/B",
+		    "source":"3"
+		  }
 		]
 	}
 }
