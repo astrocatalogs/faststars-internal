@@ -9,6 +9,10 @@
 		  {
 		    "bibcode":"2003AJ....125..984M",
             "alias":"2"
+		  },
+		  {
+		    "bibcode":"2015Sci...347.1126G",
+            "alias":"3"
 		  }
 		],
 		"alias":[
@@ -17,7 +21,7 @@
 			"source":"1"
 		  },
 		  {
-			"value":"SDSS J093320.86+441705.4",
+			"value":"SDSSJ093320.86+441705.4",
 			"source":"1"
 		  }
 		],
@@ -42,6 +46,12 @@
 		    "e_upper_value":"3.1",
 		    "u_value":"kpc",
 		    "source":"1"
+		  },
+		  {
+		    "value":"8.5",
+		    "e_value":"1.0",
+		    "u_value":"kpc",
+		    "source":"3"
 		  }
 		],
 		"velocity":[
@@ -50,6 +60,12 @@
 		    "e_value":"15.0",
 		    "u_value":"km/s",
 		    "source":"1"
+		  },
+		  {
+		    "value":"917.0",
+		    "e_value":"7.0",
+		    "u_value":"km/s",
+		    "source":"3"
 		  }
 		],
 		"propermotionra":[
@@ -58,6 +74,12 @@
 		    "e_value":"1.0",
 		    "u_value":"mas/yr",
 		    "source":"2"
+		  },
+		  {
+		    "value":"-8.0",
+		    "e_value":"1.8",
+		    "u_value":"mas/yr",
+		    "source":"3"
 		  }
 		],
 		"propermotiondec":[
@@ -66,12 +88,18 @@
 		    "e_value":"3.0",
 		    "u_value":"mas/yr",
 		    "source":"2"
+		  },
+		  {
+		    "value":"9.1",
+		    "e_value":"1.6",
+		    "u_value":"mas/yr",
+		    "source":"3"
 		  }
 		],
 		"claimedtype":[
 		  {
 		    "value":"HVS",
-		    "source":"1"
+		    "source":"1,3"
 		  }
 		]
 	}
