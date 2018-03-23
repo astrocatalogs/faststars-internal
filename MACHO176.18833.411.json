@@ -5,8 +5,18 @@
 		  {
 		    "bibcode":"2015ApJ...808L..12K",
             "alias":"1"
+		  },
+		  {
+		    "bibcode":"2016A&A...590A..39H",
+            "alias":"2"
 		  }
 		],
+		"alias":[
+		  {
+		    "value":"m176",
+		    "source":"2"
+	      }
+	    ],
 		"ra":[
 		  {
 		    "value":"18:00:13.08",
