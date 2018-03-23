@@ -5,6 +5,10 @@
 		  {
 		    "bibcode":"2011A&A...527A.137T",
             "alias":"1"
+		  },
+		  {
+		    "bibcode":"2016ApJ...821L..13N",
+            "alias":"2"
 		  }
 		],
 		"ra":[
@@ -27,6 +31,12 @@
 		    "e_value":"0.68",
 		    "u_value":"kpc",
 		    "source":"1"
+		  },
+		  {
+		    "value":"5.5",
+		    "e_value":"0.5",
+		    "u_value":"kpc",
+		    "source":"2"
 		  }
 		],
 		"velocity":[
@@ -35,6 +45,12 @@
 		    "e_value":"9.5",
 		    "u_value":"km/s",
 		    "source":"1"
+		  },
+		  {
+		    "value":"234.5",
+		    "e_value":"2.1",
+		    "u_value":"km/s",
+		    "source":"2"
 		  }
 		],
 		"propermotionra":[
@@ -56,14 +72,25 @@
 		"claimedtype":[
 		  {
 		    "value":"HVS",
-		    "source":"1"
+		    "source":"1,2"
 		  }
-		]
-		,
+		],
 		"spectraltype":[
 		  {
 		    "value":"sdB",
-		    "source":"1"
+		    "source":"1,2"
+		  }
+		],
+		"binary":[
+		  {
+		    "value":"True",
+		    "source":"2"
+		  }
+		],
+		"companionspectraltype":[
+		  {
+		    "value":"K3V",
+		    "source":"2"
 		  }
 		]
 	}
