@@ -104,7 +104,11 @@
 		],
 		"spectraltype":[
 		  {
-		    "value":"sdO/B",
+		    "value":"sdO",
+		    "source":"3"
+		  },
+		  {
+		    "value":"sdB",
 		    "source":"3"
 		  }
 		]

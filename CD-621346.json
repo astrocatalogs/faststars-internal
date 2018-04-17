@@ -64,7 +64,11 @@
 		,
 		"spectraltype":[
 		  {
-		    "value":"CH/RG",
+		    "value":"CH",
+		    "source":"1"
+		  },
+		  {
+		    "value":"RG",
 		    "source":"1"
 		  }
 		]
