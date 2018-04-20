@@ -27,9 +27,9 @@
 		],
 		"lumdist":[
 		  {
-		    "value":"360.0",
-		    "e_value":"50.0",
-		    "u_value":"pc",
+		    "value":"0.360",
+		    "e_value":"0.050",
+		    "u_value":"kpc",
 		    "source":"1"
 		  }
 		],
