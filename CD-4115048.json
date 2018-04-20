@@ -27,16 +27,11 @@
 		],
 		"lumdist":[
 		  {
-		    "value":"1.3",
-		    "e_value":"0.3",
+		    "value":"1.01334998676",
+		    "e_value":"0.484270050724",
 		    "u_value":"kpc",
-		    "source":"1"
-		  },
-		  {
-		    "value":"0.7",
-		    "e_value":"0.2",
-		    "u_value":"kpc",
-		    "source":"1"
+		    "source":"1",
+		    "derived":"True"
 		  }
 		],
 		"velocity":[
