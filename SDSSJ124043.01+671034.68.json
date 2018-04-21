@@ -49,9 +49,13 @@
 		    "source":"2"
 		  }
 		],
-		"spectraltype":[
+		"stellarclass":[
 		  {
-		    "value":"DQWD",
+		    "value":"dqwd",
+		    "source":"1"
+		  },
+		  {
+		    "value":"wd",
 		    "source":"1"
 		  }
 		],

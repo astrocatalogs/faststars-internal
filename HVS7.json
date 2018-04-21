@@ -42,11 +42,21 @@
 		    "source":"1"
 		  }
 		],
-		"claimedtype":[
-		  {
-		    "value":"HVS",
-		    "source":"1"
-		  }
-		]
+		"spectraltype":[
+		    {
+		        "value":"B7",
+		        "source":"1"
+	        }
+        ],
+        "stellarclass":[
+		    {
+		        "value":"d",
+		        "source":"1"
+	        },
+	        {
+		        "value":"bhb",
+		        "source":"1"
+	        }
+        ]
 	}
 }

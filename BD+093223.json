@@ -58,16 +58,9 @@
 		    "source":"2"
 		  }
 		],
-		"claimedtype":[
+		"stellarclass":[
 		  {
-		    "value":"pHVS",
-		    "source":"1"
-		  }
-		]
-		,
-		"spectraltype":[
-		  {
-		    "value":"RHB",
+		    "value":"rhb",
 		    "source":"1"
 		  }
 		]

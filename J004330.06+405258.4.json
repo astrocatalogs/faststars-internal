@@ -36,15 +36,15 @@
 		    "source":"1"
 		  }
 		],
-		"claimedtype":[
+		"spectraltype":[
 		  {
-		    "value":"HVS",
+		    "value":"M2",
 		    "source":"1"
 		  }
 		],
-		"spectraltype":[
+		"stellarclass":[
 		  {
-		    "value":"M2I",
+		    "value":"Sg",
 		    "source":"1"
 		  }
 		],

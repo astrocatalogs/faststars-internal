@@ -69,15 +69,15 @@
 		    "source":"1"
 		  }
 		],
-		"claimedtype":[
+		"spectraltype":[
 		  {
-		    "value":"HVS",
+		    "value":"B",
 		    "source":"1,2"
 		  }
 		],
-		"spectraltype":[
+		"stellarclass":[
 		  {
-		    "value":"sdB",
+		    "value":"sd",
 		    "source":"1,2"
 		  }
 		],
@@ -89,7 +89,13 @@
 		],
 		"companionspectraltype":[
 		  {
-		    "value":"K3V",
+		    "value":"K3",
+		    "source":"2"
+		  }
+		],
+		"companionstellarclass":[
+		  {
+		    "value":"d",
 		    "source":"2"
 		  }
 		]

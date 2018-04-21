@@ -91,16 +91,31 @@
 		    "source":"1"
 		  }
 		],
-		"claimedtype":[
-		  {
-		    "value":"HVS",
-		    "source":"1"
-		  }
-		]
-		,
 		"spectraltype":[
 		  {
-		    "value":"B",
+		    "value":"B1",
+		    "source":"1"
+		  },
+		  {
+		    "value":"B2",
+		    "source":"1"
+		  },
+		  {
+		    "value":"B2.5",
+		    "source":"1"
+		  }
+		],
+		"stellarclass":[
+		  {
+		    "value":"Sg",
+		    "source":"1"
+		  },
+		  {
+		    "value":"sg",
+		    "source":"1"
+		  },
+		  {
+		    "value":"d",
 		    "source":"1"
 		  }
 		]

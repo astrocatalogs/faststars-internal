@@ -54,21 +54,19 @@
 		    "u_value":"mas/yr",
 		    "source":"2"
 		  }
-		],
-		"claimedtype":[
-		  {
-		    "value":"pHVS",
-		    "source":"1"
-		  }
 		]
 		,
-		"spectraltype":[
+		"stellarclass":[
 		  {
-		    "value":"CH",
+		    "value":"ch",
 		    "source":"1"
 		  },
 		  {
-		    "value":"RG",
+		    "value":"rg",
+		    "source":"1"
+		  },
+		  {
+		    "value":"g",
 		    "source":"1"
 		  }
 		]

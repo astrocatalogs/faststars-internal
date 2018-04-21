@@ -27,17 +27,17 @@
 		    "u_value":"km/s",
 		    "source":"1"
 		  }
-		],
-		"claimedtype":[
-		  {
-		    "value":"pHVS",
-		    "source":"1"
-		  }
 		]
 		,
 		"spectraltype":[
 		  {
 		    "value":"M",
+		    "source":"1"
+		  }
+		],
+		"stellarclass":[
+		  {
+		    "value":"g",
 		    "source":"1"
 		  }
 		]

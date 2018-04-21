@@ -53,20 +53,17 @@
 		    "source":"2"
 		  }
 		],
-		"claimedtype":[
+		"stellarclass":[
 		  {
-		    "value":"HVS",
-		    "source":"1"
-		  }
-		]
-		,
-		"spectraltype":[
-		  {
-		    "value":"CH",
+		    "value":"ch",
 		    "source":"1"
 		  },
 		  {
-		    "value":"RG",
+		    "value":"rg",
+		    "source":"1"
+		  },
+		  {
+		    "value":"g",
 		    "source":"1"
 		  }
 		]

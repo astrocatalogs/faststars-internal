@@ -65,15 +65,13 @@
 		    "source":"1"
 		  }
 		],
-		"claimedtype":[
+		"stellarclass":[
 		  {
-		    "value":"HALO",
+		    "value":"rrl",
 		    "source":"1"
-		  }
-		],
-		"spectraltype":[
+		  },
 		  {
-		    "value":"RRL",
+		    "value":"hb",
 		    "source":"1"
 		  }
 		]
