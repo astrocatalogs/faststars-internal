@@ -53,16 +53,16 @@
 		    "source":"1"
 		  }
 		],
-		"claimedtype":[
+		"spectraltype":[
 		  {
-		    "value":"HVS",
+		    "value":"A",
 		    "source":"1"
 		  }
 		]
 		,
-		"spectraltype":[
+		"stellarclass":[
 		  {
-		    "value":"A",
+		    "value":"d",
 		    "source":"1"
 		  }
 		]

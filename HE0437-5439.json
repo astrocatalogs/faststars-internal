@@ -34,7 +34,7 @@
 		"lumdist":[
 		  {
 		    "value":"61",
-		    "ur_value":"12",
+		    "e_value":"12",
 		    "u_value":"kpc",
 		    "source":"1"
 		  }
@@ -63,11 +63,17 @@
 		    "source":"2"
 		  }
 		],
-		"claimedtype":[
-		  {
-		    "value":"HVS",
-		    "source":"1"
-		  }
-		]
+		"spectraltype":[
+		    {
+		        "value":"B",
+		        "source":"1"
+	        }
+        ],
+        "stellarclass":[
+		    {
+		        "value":"d",
+		        "source":"1"
+	        }
+        ]
 	}
 }

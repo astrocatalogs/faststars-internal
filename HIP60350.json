@@ -61,18 +61,17 @@
 		    "source":"3"
 		  }
 		],
-		"claimedtype":[
-		  {
-		    "value":"HVS",
-		    "source":"1"
-		  }
-		]
-		,
 		"spectraltype":[
-		  {
-		    "value":"B",
-		    "source":"1"
-		  }
-		]
+		    {
+		        "value":"B",
+		        "source":"1"
+	        }
+        ],
+        "stellarclass":[
+		    {
+		        "value":"d",
+		        "source":"1"
+	        }
+        ]
 	}
 }

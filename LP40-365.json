@@ -37,10 +37,10 @@
 		],
 		"lumdist":[
 		  {
-		    "value":"298.0",
-		    "e_lower_value":"70.0",
-		    "e_upper_value":"150.0",
-		    "u_value":"pc",
+		    "value":"0.298",
+		    "e_lower_value":"0.070",
+		    "e_upper_value":"0.150",
+		    "u_value":"kpc",
 		    "source":"1"
 		  }
 		],
@@ -74,15 +74,9 @@
 		    "source":"2"
 		  }
 		],
-		"claimedtype":[
+		"stellarclass":[
 		  {
-		    "value":"HVS",
-		    "source":"1,3"
-		  }
-		],
-		"spectraltype":[
-		  {
-		    "value":"WD",
+		    "value":"wd",
 		    "source":"1,3"
 		  }
 		]
