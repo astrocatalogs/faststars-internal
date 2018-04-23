@@ -7,6 +7,18 @@
             "alias":"1"
 		  }
 		],
+		"discoverer":[
+		  {
+		    "value":"Kate Anne Evans, Philip Massey",
+            "alias":"1"
+		  }
+		],
+		"discoverdate":[
+		  {
+		    "value":"2015",
+            "alias":"1"
+		  }
+		],
 		"ra":[
 		  {
 		    "value":"00:43:30.06",

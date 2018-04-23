@@ -11,6 +11,18 @@
             "alias":"2"
 		  }
 		],
+		"discoverer":[
+		  {
+		    "value":"H. Edelmann, R. Napiwotzki, U. Heber, N. Christlieb, D. Reimers",
+            "alias":"1"
+		  }
+		],
+		"discoverdate":[
+		  {
+		    "value":"2005",
+            "alias":"1"
+		  }
+		],
 		"alias":[
 	      {
 			"value":"HVS3",

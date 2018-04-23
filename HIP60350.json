@@ -15,6 +15,18 @@
             "alias":"3"
 		  }
 		],
+		"discoverer":[
+		  {
+		    "value":"Andreas Irrgang, Norbert Przybilla, Ulrich Heber, M. Fernanda Nieva, Sonja Schuh",
+            "alias":"1"
+		  }
+		],
+		"discoverdate":[
+		  {
+		    "value":"2010",
+            "alias":"1"
+		  }
+		],
 		"ra":[
 		  {
 		    "value":"12:24:30.23",

@@ -15,6 +15,18 @@
             "alias":"3"
 		  }
 		],
+		"discoverer":[
+		  {
+		    "value":"Zheng Zheng, Jeffrey L. Carlin, Timothy C. Beers, Licai Deng, Carl J. Grillmair, Puragra Guhathakurta, Sébastien Lépine, Heidi Jo Newberg, Brian Yanny, Haotong Zhang, Chao Liu, Ge Jin, Yong Zhang",
+            "alias":"1"
+		  }
+		],
+		"discoverdate":[
+		  {
+		    "value":"2014",
+            "alias":"1"
+		  }
+		],
 		"alias":[
 		  {
 		    "value":"J091206.52+091621.8",

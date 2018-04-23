@@ -11,6 +11,18 @@
             "alias":"2"
 		  }
 		],
+		"discoverer":[
+		  {
+		    "value":"C. B. Pereira, E. G. Jilinski, N. A. Drake, V. G. Ortega, F. Roig",
+            "alias":"1"
+		  }
+		],
+		"discoverdate":[
+		  {
+		    "value":"2013",
+            "alias":"1"
+		  }
+		],
 		"ra":[
 		  {
 		    "value":"16:33:35.5816",

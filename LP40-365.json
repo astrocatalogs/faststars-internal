@@ -15,6 +15,18 @@
             "alias":"3"
 		  }
 		],
+		"discoverer":[
+		  {
+		    "value":"S. Vennes, P. Nemeth, A. Kawka, J. R. Thorstensen, V. Khalack, L. Ferrario, E. H. Alper",
+            "alias":"1"
+		  }
+		],
+		"discoverdate":[
+		  {
+		    "value":"2017",
+            "alias":"1"
+		  }
+		],
 		"alias":[
 	      {
 			"value":"GD492",
