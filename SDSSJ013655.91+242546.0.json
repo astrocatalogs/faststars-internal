@@ -7,6 +7,18 @@
             "alias":"1"
 		  }
 		],
+		"discoverer":[
+		  {
+		    "value":"A. Tillich, N. Przybilla, R.-D. Scholz, U. Heber",
+            "alias":"1"
+		  }
+		],
+		"discoverdate":[
+		  {
+		    "value":"2009",
+            "alias":"1"
+		  }
+		],
 		"ra":[
 		  {
 		    "value":"01:36:55.91",

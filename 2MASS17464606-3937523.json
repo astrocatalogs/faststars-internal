@@ -7,6 +7,18 @@
             "alias":"1"
 		  }
 		],
+		"discoverer":[
+		  {
+		    "value":"Andrea Kunder, Andreas Koch, R. Michael Rich, Roberto de Propris, Christian D. Howard, Scott A. Stubbs, Christian I. Johnson, Juntai Shen, Yougang Wang, Annie C. Robin, John Kormendy, Mario Soto, Peter Frinchaboy, David B. Reitzel, HongSheng Zhao, Livia Origlia",
+            "alias":"1"
+		  }
+		],
+		"discoverdate":[
+		  {
+		    "value":"2012",
+            "alias":"1"
+		  }
+		],
 		"ra":[
 		  {
 		    "value":"17:46:46.06",

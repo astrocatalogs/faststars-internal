@@ -11,6 +11,18 @@
             "alias":"2"
 		  }
 		],
+		"discoverer":[
+		  {
+		    "value":"U. Heber, H. Edelmann, R. Napiwotzki, M. Altmann, R.-D. Scholz",
+            "alias":"1"
+		  }
+		],
+		"discoverdate":[
+		  {
+		    "value":"2008",
+            "alias":"1"
+		  }
+		],
 		"ra":[
 		  {
 		    "value":"06:02:27.88",

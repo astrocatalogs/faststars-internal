@@ -7,6 +7,18 @@
             "alias":"1"
 		  }
 		],
+		"discoverer":[
+		  {
+		    "value":"Warren R. Brown, Margaret J. Geller, Scott J. Kenyon, Michael J. Kurtz",
+            "alias":"1"
+		  }
+		],
+		"discoverdate":[
+		  {
+		    "value":"2006",
+            "alias":"1"
+		  }
+		],
 		"alias":[
 	      {
 			"value":"HVS6",

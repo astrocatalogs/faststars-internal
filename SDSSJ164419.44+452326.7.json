@@ -7,6 +7,18 @@
             "alias":"1"
 		  }
 		],
+		"discoverer":[
+		  {
+		    "value":"A. Tillich, U. Heber, S. Geier, H. Hirsch, P. F. L. Maxted, B. T. Gänsicke, T. R. Marsh, R. Napiwotzki, R. H. Østensen, R.-D. Scholz",
+            "alias":"1"
+		  }
+		],
+		"discoverdate":[
+		  {
+		    "value":"2011",
+            "alias":"1"
+		  }
+		],
 		"ra":[
 		  {
 		    "value":"16:44:19.44",

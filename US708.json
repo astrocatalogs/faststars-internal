@@ -15,6 +15,18 @@
             "alias":"3"
 		  }
 		],
+		"discoverer":[
+		  {
+		    "value":"H. A. Hirsch, U. Heber, S. J. O'Toole, F. Bresolin",
+            "alias":"1"
+		  }
+		],
+		"discoverdate":[
+		  {
+		    "value":"2005",
+            "alias":"1"
+		  }
+		],
 		"alias":[
 	      {
 			"value":"HVS2",

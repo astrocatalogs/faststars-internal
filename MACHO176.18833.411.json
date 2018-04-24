@@ -11,6 +11,18 @@
             "alias":"2"
 		  }
 		],
+		"discoverer":[
+		  {
+		    "value":"Andrea Kunder, R. M. Rich, K. Hawkins, R. Poleski, J. Storm, C. I. Johnson, J. Shen, Z.-Y. Li, M. J. Cordero, D. M. Nataf, G. Bono, A. R. Walker, A. Koch, R. De Propris, A. Udalski, M. K. Szymański, I. Soszyński, G. Pietrzyński, K. Ulaczyk, Ł. Wyrzykowski, P. Pietrukowicz, J. Skowron, S. Kozłowski, P. Mróz",
+            "alias":"1"
+		  }
+		],
+		"discoverdate":[
+		  {
+		    "value":"2015",
+            "alias":"1"
+		  }
+		],
 		"alias":[
 		  {
 		    "value":"m176",

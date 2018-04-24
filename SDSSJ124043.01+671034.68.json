@@ -11,6 +11,18 @@
             "alias":"2"
 		  }
 		],
+		"discoverer":[
+		  {
+		    "value":"S. O. Kepler, Detlev Koester, Gustavo Ourique",
+            "alias":"1"
+		  }
+		],
+		"discoverdate":[
+		  {
+		    "value":"2016",
+            "alias":"1"
+		  }
+		],
 		"ra":[
 		  {
 		    "value":"12:40:43.01",
