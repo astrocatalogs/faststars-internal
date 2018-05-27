@@ -1,0 +1,20 @@
+{
+	"Li10":{
+		"schema":"https://github.com/astrocatalogs/faststars/blob/4818341/SCHEMA.md",
+		"name":"Li10",
+		"sources":[
+			{
+				"bibcode":"2018arXiv180410179B",
+				"alias":"1"
+			}
+		],
+		"velocity":[
+			{
+				"value":"234",
+				"e_value":"5",
+				"u_value":"km/s",
+				"source":"1"
+			}
+		]
+	}
+}
