@@ -9,6 +9,10 @@
 		  {
 		    "bibcode":"2001MNRAS.326.1315H",
             "alias":"2"
+		  },
+		  {
+		    "bibcode":"2018arXiv180705909I",
+            "alias":"3"
 		  }
 		],
 		"discoverer":[
@@ -49,6 +53,12 @@
 		    "e_value":"12",
 		    "u_value":"kpc",
 		    "source":"1"
+		  },
+		  {
+		    "value":"62.3",
+		    "e_value":"7.7",
+		    "u_value":"kpc",
+		    "source":"3"
 		  }
 		],
 		"velocity":[
