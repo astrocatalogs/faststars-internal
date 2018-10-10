@@ -13,6 +13,10 @@
 		  {
 		    "bibcode":"2010AJ....139.2440R",
             "alias":"3"
+		  },
+		  {
+		    "bibcode":"2018arXiv181002029H",
+            "alias":"4"
 		  }
 		],
 		"discoverer":[
@@ -53,6 +57,13 @@
 		    "e_value":"2.2",
 		    "u_value":"kpc",
 		    "source":"1"
+		  },
+		  {
+		    "value":"13.4",
+		    "e_lower_value":"1.5",
+		    "e_upper_value":"1.7",
+		    "u_value":"kpc",
+		    "source":"4"
 		  }
 		],
 		"velocity":[
@@ -61,6 +72,12 @@
 		    "e_value":"10.0",
 		    "u_value":"km/s",
 		    "source":"1"
+		  },
+		  {
+		    "value":"615.0",
+		    "e_value":"5.0",
+		    "u_value":"km/s",
+		    "source":"4"
 		  }
 		],
 		"propermotionra":[
