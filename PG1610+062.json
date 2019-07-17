@@ -1,0 +1,62 @@
+{
+	"PG1610+062":{
+		"name":"PG1610+062",
+		"sources":[
+		  {
+		    "bibcode":"2019arXiv190706375I",
+            "alias":"1"
+		  }
+		],
+		"discoverer":[
+		  {
+		    "value":"Andreas Irrgang, Stephan Geier, Ulrich Heber, Thomas Kupfer, Felix Furst",
+            "alias":"1"
+		  }
+		],
+		"discoverdate":[
+		  {
+		    "value":"2019",
+            "alias":"1"
+		  }
+		],
+		"alias":[
+	      {
+			"value":"Gaia DR2 4450123955938796160",
+			"source":"1"
+		  },
+		  {
+			"value":"Gaia DR2 445160",
+			"source":"1"
+		  }
+		],
+		"lumdist":[
+		  {
+		    "value":"17.30",
+		    "e_lower_value":"2.48",
+		    "e_upper_value":"2.91",
+		    "u_value":"kpc",
+		    "source":"1"
+		  }
+		],
+		"velocity":[
+		  {
+		    "value":"157.4",
+		    "e_value":"7.7",
+		    "u_value":"km/s",
+		    "source":"1"
+		  }
+		],
+		"spectraltype":[
+		    {
+		        "value":"B",
+		        "source":"1"
+	        }
+        ],
+        "stellarclass":[
+		    {
+		        "value":"d",
+		        "source":"1"
+	        }
+        ]
+	}
+}
