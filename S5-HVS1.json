@@ -1,0 +1,45 @@
+{
+	"S5-HVS1":{
+		"name":"S5-HVS1",
+		"sources":[
+		  {
+		    "bibcode":"2019arXiv190711725K",
+            "alias":"1"
+		  }
+		],
+		"alias":[
+	      {
+			"value":"Gaia DR2 6513109241989477504",
+			"source":"1"
+		  }
+		],
+		"discoverer":[
+		  {
+		    "value":"Sergey E.Koposov, Douglas Boubert, Ting S. Li, Denis Erkal, Gary S. Da Costa, Daniel B. Zucker, Alexander P. Ji, Kyler Kuehn, Geraint F. Lewis, Dougal Mackey, Jeffrey D. Simpson, Nora Shipp, Zhen Wan, Vasily Belokurov, Joss Bland-Hawthorn, Sarah L. Martell, Thomas Nordlander, Andrew B. Pace, Gayandhi M. De Silva, Mei-Yu Wang",
+            "alias":"1"
+		  }
+		],
+		"discoverdate":[
+		  {
+		    "value":"2019",
+            "alias":"1"
+		  }
+		],
+		"velocity":[
+		  {
+		    "value":"1017.0",
+		    "e_value":"2.7",
+		    "u_value":"km/s",
+		    "source":"1"
+		  }
+		],
+		"lumdist":[
+		  {
+		    "value":"8.634878557202766",
+		    "e_value":"0.2984506650615138",
+		    "u_value":"kpc",
+		    "source":"1"
+		  }
+		]
+	}
+}
