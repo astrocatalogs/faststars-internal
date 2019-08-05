@@ -1,0 +1,49 @@
+{
+	"LP 93-21":{
+		"name":"LP 93-21",
+		"sources":[
+		  {
+		    "bibcode":"2019arXiv190800670R",
+            "alias":"1"
+		  },
+		  {
+		    "bibcode":"2018ApJS..235...42A",
+            "alias":"2"
+		  }
+		],
+		"discoverer":[
+		  {
+		    "value":"Nicholas J. Ruffini, Andrew R. Casey",
+            "alias":"1"
+		  }
+		],
+		"discoverdate":[
+		  {
+		    "value":"2019",
+            "alias":"1"
+		  }
+		],
+		"ra":[
+		  {
+		    "value":"10:45:57.3747",
+		    "u_value":"hours",
+		    "source":"1"
+		  }
+		],
+		"dec":[
+		  {
+		    "value":"+59:04:28.6472",
+		    "u_value":"degrees",
+		    "source":"1"
+		  }
+		],
+		"velocity":[
+		  {
+		    "value":"462.0",
+		    "e_value":"20.0",
+		    "u_value":"km/s",
+		    "source":"2"
+		  }
+		]
+	}
+}
