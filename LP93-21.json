@@ -9,6 +9,10 @@
 		  {
 		    "bibcode":"2018ApJS..235...42A",
             "alias":"2"
+		  },
+		  {
+		    "bibcode":"2019arXiv191013053K",
+            "alias":"3"
 		  }
 		],
 		"discoverer":[
@@ -39,10 +43,10 @@
 		],
 		"velocity":[
 		  {
-		    "value":"462.0",
-		    "e_value":"20.0",
+		    "value":"15.0",
+		    "e_value":"21.0",
 		    "u_value":"km/s",
-		    "source":"2"
+		    "source":"3"
 		  }
 		]
 	}
